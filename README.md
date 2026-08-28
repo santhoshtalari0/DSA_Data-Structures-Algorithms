@@ -1,4 +1,19 @@
 # 🚀 Data Structures and Algorithms
+<p align="center">
+  <img src="./assets/dsa-banner.png" alt="Data Structures and Algorithms" width="100%">
+</p>
+
+<h1 align="center">🚀 Data Structures and Algorithms</h1>
+
+<p align="center">
+  My personal journey of learning Data Structures and Algorithms from basics to advanced.
+</p>
+
+<p align="center">
+  🐍 Python &nbsp; • &nbsp; ☕ Java &nbsp; • &nbsp; ⚙️ C++
+</p>
+
+---
 
 Welcome to my **Data Structures and Algorithms (DSA) learning repository**.
 
