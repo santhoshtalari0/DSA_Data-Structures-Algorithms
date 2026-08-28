@@ -1,4 +1,3 @@
-# 🚀 Data Structures and Algorithms
 <p align="center">
   <img src="./assets/dsa-banner.png" alt="Data Structures and Algorithms" width="100%">
 </p>
