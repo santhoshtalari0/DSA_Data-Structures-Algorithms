@@ -42,8 +42,8 @@ Examples of data:
 
 ```text
 Name      → Santhosh
-Age       → 22
-Marks     → 85
+Age       → 19
+Marks     → 95
 Price     → 999
 Phone No. → 9876543210
 ```
@@ -54,7 +54,7 @@ For example:
 
 ```python
 name = "Santhosh"
-age = 22
+age = 19
 marks = 85
 ```
 
