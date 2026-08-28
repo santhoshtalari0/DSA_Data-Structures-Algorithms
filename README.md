@@ -115,10 +115,8 @@ DSA/
 ├── README.md
 │
 ├── 00_Repository_Guide/
-│   ├── README.md
 │   ├── DSA_Roadmap.md
-│   ├── How_to_Use_This_Repository.md
-│   └── Progress_Tracker.md
+│   └── How_to_Use_This_Repository.md
 │
 ├── 01_DSA_Fundamentals/
 ├── 02_Arrays/
@@ -149,36 +147,6 @@ Each main topic will contain concepts, explanations, problems, solutions, and no
 
 ---
 
-## 📝 My Learning Approach
-
-For every important concept or problem, I will try to follow this process:
-
-```text id="qdl1yr"
-Understand the Concept
-        ↓
-Understand the Problem
-        ↓
-Think About a Simple Solution
-        ↓
-Try Brute Force
-        ↓
-Identify Repeated Work
-        ↓
-Find an Optimized Approach
-        ↓
-Perform a Dry Run
-        ↓
-Write the Code
-        ↓
-Analyze Complexity
-        ↓
-Revise and Practice
-```
-
-I believe understanding the problem-solving process is more important than memorizing solutions.
-
----
-
 ## 📌 How I Will Document Problems
 
 For important problems, my notes may include:
@@ -203,22 +171,6 @@ The exact format may change depending on the topic and problem.
 
 ---
 
-## 🔁 My Focus on Revision
-
-Learning a concept once is not enough.
-
-I will regularly revisit:
-
-- Difficult concepts
-- Important algorithms
-- Problems I could not solve independently
-- Common mistakes
-- Frequently used patterns
-
-I will maintain revision notes to help strengthen my understanding over time.
-
----
-
 ## 🎯 My Learning Principles
 
 I want to follow a simple approach throughout this journey:
@@ -228,22 +180,6 @@ I want to follow a simple approach throughout this journey:
 I will avoid rushing through topics just to complete a roadmap.
 
 My goal is not to solve problems as quickly as possible. My goal is to gradually become better at understanding and solving problems independently.
-
----
-
-## 📊 Progress
-
-My overall learning progress and milestones are available inside:
-
-```text id="swf52s"
-00_Repository_Guide/Progress_Tracker.md
-```
-
-My complete learning roadmap is available inside:
-
-```text id="cc86qq"
-00_Repository_Guide/DSA_Roadmap.md
-```
 
 ---
 
