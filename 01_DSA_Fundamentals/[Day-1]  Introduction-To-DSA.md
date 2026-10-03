@@ -1,7 +1,7 @@
 ```markdown
 # 🚀 Day 01 - Introduction to Data Structures and Algorithms (DSA)
 
-Welcome to **Day 1 of my DSA Journey**! 🚀
+Welcome to # Day 1 of my DSA Journey! 🚀
 
 Before solving problems, learning arrays, linked lists, trees, graphs, or dynamic programming, we first need to understand one important question:
 
