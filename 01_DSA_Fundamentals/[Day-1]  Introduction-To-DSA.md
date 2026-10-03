@@ -1,3 +1,4 @@
+```markdown
 # 🚀 Day 01 - Introduction to Data Structures and Algorithms (DSA)
 
 Welcome to **Day 1 of my DSA Journey**! 🚀
@@ -269,11 +270,11 @@ Together:
 ```text
                  DSA
                   |
-        --------------------
-        |                  |
+         --------------------
+         |                  |
 Data Structures       Algorithms
-        |                  |
-Organize Data        Solve Problems
+         |                  |
+   Organize Data        Solve Problems
 ```
 
 Example:
@@ -696,9 +697,9 @@ Example:
 ```text
           CEO
          /   \
-   Manager A  Manager B
-      /          \
- Employee      Employee
+    Manager A  Manager B
+       /          \
+  Employee      Employee
 ```
 
 Real-life examples:
@@ -1107,3 +1108,4 @@ The goal is:
 - DSA is not about memorizing solutions; it is about understanding how to solve problems efficiently.
 
 ---
+```
