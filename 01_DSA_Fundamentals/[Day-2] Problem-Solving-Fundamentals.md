@@ -1,13 +1,3 @@
-Yes bro 🔥 Now I got it exactly.
-
-You want **Day 2 in the same detailed GitHub Markdown format as your Day 1** — same style, headings, explanations, examples, diagrams, code blocks — but **without repeating Day 1 content**.
-
-Since Day 1 already introduces DSA, Data Structures, Algorithms, real-world examples, roadmap, etc. Pasted text
-
-For Day 2, we continue with **Problem-Solving Fundamentals**.
-
-Copy-paste **everything below directly into your `[Day-2]` file**:
-
 ```markdown
 # 🚀 Day 02 - Problem-Solving Fundamentals
 
