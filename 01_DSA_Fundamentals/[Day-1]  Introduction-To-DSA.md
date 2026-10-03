@@ -7,10 +7,7 @@ Before solving problems, learning arrays, linked lists, trees, graphs, or dynami
 
 > **What is DSA, and why should we learn it?**
 
-DSA stands for:
-
-```text
-Data Structures + Algorithms
+DSA stands for: Data Structures + Algorithms
 ```
 
 DSA is one of the most important foundations of programming and problem-solving.
