@@ -1299,26 +1299,6 @@ Factorial growth
 
 ------------------------------------------------------------------------
 
-# 🎯 Key Takeaways
-
--   Complexity describes how resource usage grows with input size.
--   `n` usually represents input size.
--   Time Complexity focuses on computational work.
--   Space Complexity focuses on memory usage.
--   Big O describes an asymptotic upper bound.
--   Big Omega describes an asymptotic lower bound.
--   Big Theta describes a tight asymptotic bound.
--   Sequential work is added.
--   Nested work is usually multiplied.
--   Repeated halving or doubling often gives `O(log n)`.
--   Constants are ignored.
--   Lower-order terms are ignored.
--   Always consider best, average, and worst cases where relevant.
--   Auxiliary space means extra memory used by the algorithm.
--   Extra memory can sometimes reduce running time.
--   Constraints help determine whether a complexity is practical.
--   Always analyze both time and space before finalizing a DSA solution.
-
 ------------------------------------------------------------------------
 
 # 🚀 DSA Progress
@@ -1339,7 +1319,6 @@ Day 06 → Recursion Fundamentals
 Day 07 → Arrays
 ```
 
-> **Don't just ask whether your code works. Ask how efficiently it
-> works.**
+
 
 🚀 **The DSA journey continues...**
