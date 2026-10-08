@@ -1315,8 +1315,5 @@ Day 05 → Mathematics for DSA 🔜
 Day 06 → Recursion Fundamentals
 
 Day 07 → Arrays
-```
-
-
 
 🚀 **The DSA journey continues!.......**
