@@ -1,6 +1,5 @@
 # Day 07 — Arrays in DSA
 
-> Goal: Learn array problem-solving patterns without repeating Python list basics from Day 3.
 
 ## 1. Array Traversal
 An array stores ordered elements accessible by index. In Python, lists are commonly used for array practice.
