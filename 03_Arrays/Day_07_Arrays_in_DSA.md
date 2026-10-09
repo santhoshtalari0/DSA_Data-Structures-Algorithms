@@ -1,5 +1,3 @@
-# Day 07 — Arrays in DSA
-
 
 ## 1. Array Traversal
 An array stores ordered elements accessible by index. In Python, lists are commonly used for array practice.
