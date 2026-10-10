@@ -257,45 +257,4 @@ Time: **O(n)** average; extra space: **O(k)**.
 
 Here, `n` is the string length and `k` is the number of distinct characters.
 
----
 
-# Practice Problems
-
-## Beginner
-1. Count vowels and consonants.
-2. Reverse a string.
-3. Check whether a string is a palindrome.
-4. Count each character's frequency.
-5. Check whether two strings are anagrams.
-6. Find the first non-repeating character.
-7. Remove duplicate characters while preserving order.
-8. Check whether all characters are unique.
-9. Find the longest common prefix.
-10. Compress consecutive repeated characters.
-
-## Intermediate
-11. Check whether two strings are rotations.
-12. Count words in a sentence.
-13. Find the most frequent character.
-14. Find characters shared by two strings.
-15. Generate all substrings.
-16. Find the longest substring without repeating characters.
-17. Find the longest palindromic substring.
-18. Group words into anagram groups.
-19. Check whether one string is a subsequence of another.
-20. Find the first index where a pattern occurs in a text.
-
----
-
-# Quick Revision
-- Frequency counting solves many character-count problems.
-- Two pointers are useful for palindrome checks.
-- Anagrams need matching character frequencies.
-- Sets help detect duplicates.
-- Substrings are contiguous; subsequences need not be.
-- Read carefully for case, punctuation, spaces, and return values.
-
-> **Golden rule:** Clarify what counts as a character match: case, spaces, punctuation, and order.
-
-## Day 9 Preview
-**Searching Algorithms** — linear search, binary search, boundary patterns, and choosing the right method.
