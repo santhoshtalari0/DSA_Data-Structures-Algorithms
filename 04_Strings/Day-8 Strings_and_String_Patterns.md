@@ -1,6 +1,3 @@
-# Day 08 — Strings and String Problem-Solving Patterns
-
-> Goal: Learn common string algorithms used in DSA. Python string basics were covered on Day 3, so this lesson focuses on problem-solving patterns.
 
 ## 1. String Problem-Solving
 A string is an ordered sequence of characters. In Python, strings are immutable, so algorithms usually create a new string or use a list of characters when modifications are needed.
