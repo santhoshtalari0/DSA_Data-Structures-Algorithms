@@ -295,7 +295,3 @@ Binary search can find the boundary in **O(log n)** condition checks if each che
 - First/last occurrence are boundary-search patterns.
 - Binary search on an answer requires monotonic feasibility.
 
-> **Golden rule:** Before using binary search, identify the sorted order or monotonic condition that lets you safely discard half the search space.
-
-## Day 10 Preview
-**Sorting Algorithms** — bubble, selection, insertion, merge, and quick sort, with dry runs and complexity comparisons.
