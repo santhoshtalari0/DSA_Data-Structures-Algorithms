@@ -1,6 +1,3 @@
-# Day 09 — Searching Algorithms
-
-> Goal: Learn how to find values efficiently, especially in sorted arrays. Earlier array and recursion basics are assumed.
 
 ## 1. What Is Searching?
 Searching means finding whether a target exists and, often, returning its index.
