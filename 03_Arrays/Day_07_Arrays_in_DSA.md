@@ -342,6 +342,3 @@ Time: **O(n)**; extra space: **O(1)**. Initializing with the first element corre
 - Sliding window is useful for contiguous ranges.
 - Kadane's algorithm finds maximum subarray sum in linear time.
 - Check assumptions: empty input, sorted order, duplicates, and rotation direction.
-
-> **Golden rule:** Identify whether the problem calls for traversal, two pointers, prefix sums, sliding window, or a running best value before coding.
-
