@@ -345,5 +345,3 @@ Time: **O(n)**; extra space: **O(1)**. Initializing with the first element corre
 
 > **Golden rule:** Identify whether the problem calls for traversal, two pointers, prefix sums, sliding window, or a running best value before coding.
 
-## Day 8 Preview
-**Strings and String Problem-Solving Patterns** — focused on algorithms, not repeated basic Python string operations.
