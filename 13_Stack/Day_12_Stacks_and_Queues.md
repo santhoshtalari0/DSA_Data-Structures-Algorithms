@@ -1,5 +1,3 @@
-# Day 12 — Stacks and Queues
-
 ## 1. Learning goals
 
 By the end of this lesson, you should be able to:
