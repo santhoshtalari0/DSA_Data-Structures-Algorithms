@@ -313,5 +313,3 @@ Here `n` and `m` are input lengths; `k` is the number of distinct values or char
 - How does Two Sum avoid using one index twice?
 - Why does `{0: 1}` matter in prefix-sum counting?
 - Why is a set not a replacement for a frequency map?
-
-**Day 13 checkpoint:** implement frequency counting, duplicate detection, Two Sum, anagram checking, and subarray-sum counting. Then solve at least five practice problems.
