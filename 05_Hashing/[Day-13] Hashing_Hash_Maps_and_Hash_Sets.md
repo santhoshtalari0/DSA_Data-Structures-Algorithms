@@ -274,40 +274,7 @@ You generally do not need to implement a hash table from scratch unless the prob
 
 Here `n` and `m` are input lengths; `k` is the number of distinct values or characters where applicable.
 
-## 16. Practice problems
-
-### Beginner
-1. Count each number's frequency in an array.
-2. Determine whether an array contains duplicates.
-3. Find the first repeated value.
-4. Find the first non-repeating character.
-5. Check whether two strings are anagrams.
-6. Find the intersection of two arrays.
-7. Count distinct values in an array.
-
-### Intermediate
-8. Solve Two Sum and return indices.
-9. Group words into anagram groups.
-10. Find the longest substring without repeating characters.
-11. Find the majority element using a frequency map.
-12. Count pairs whose sum equals a target.
-13. Check whether arrays contain the same values with the same frequencies.
-14. Count subarrays whose sum equals `k`.
-15. Find the longest consecutive sequence in an unsorted array.
-16. Find values appearing more than `n // 3` times.
-17. Determine whether two strings are isomorphic.
-18. Count distinct values in every sliding window of size `k`.
-
-### Challenge
-19. Find the longest zero-sum subarray.
-20. Find the longest subarray whose sum equals `k`.
-21. Count subarrays whose sum is divisible by `k`.
-22. Design a data structure supporting insert, delete, and random selection in average O(1) time.
-23. Find pairs across two arrays that sum to a target.
-24. Solve four-sum using hashing or sorting.
-25. Compare hash-map and sorting solutions for one problem.
-
-## 17. Quick self-check
+## Quick self-check
 - When should you use a dictionary versus a set?
 - Why are hash-map lookups average O(1)?
 - How does Two Sum avoid using one index twice?
