@@ -1,5 +1,3 @@
-# Day 13 — Hashing, Hash Maps, and Hash Sets
-
 ## 1. Learning goals
 - Explain hashing at a practical level.
 - Use Python dictionaries as hash maps and sets as hash sets.
