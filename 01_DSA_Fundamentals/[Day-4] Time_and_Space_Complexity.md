@@ -1,12 +1,3 @@
-Welcome to **Day 4 of my DSA Journey**! 🚀
-
-Day 1 introduced DSA, Day 2 introduced problem-solving fundamentals, and
-Day 3 covered Python essentials for DSA.
-
-Day 2 already introduced the basic idea of Time and Space Complexity.
-Today we go deeper into **how to actually analyze code**, without
-repeating the earlier fundamentals.
-
 > **Goal: Learn how to calculate, compare, and improve algorithm
 > efficiency.**
 
