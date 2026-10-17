@@ -1,5 +1,3 @@
-# 🚀 Day 04 - Time & Space Complexity
-
 Welcome to **Day 4 of my DSA Journey**! 🚀
 
 Day 1 introduced DSA, Day 2 introduced problem-solving fundamentals, and
