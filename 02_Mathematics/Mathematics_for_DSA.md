@@ -1,17 +1,4 @@
 
-``` text
-Day 01 → Introduction to DSA
-Day 02 → Problem-Solving Fundamentals
-Day 03 → Python Essentials for DSA
-Day 04 → Time & Space Complexity
-```
-
-Today we build the mathematical foundation needed for many DSA problems.
-
-> **Goal: Recognize mathematical patterns and turn them into efficient
-> algorithms.**
-
-------------------------------------------------------------------------
 
 # 📌 What Will We Learn Today?
 
