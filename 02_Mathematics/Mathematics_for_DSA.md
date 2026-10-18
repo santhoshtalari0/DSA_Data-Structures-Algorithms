@@ -1,8 +1,3 @@
-# 🚀 Day 05 - Mathematics for DSA
-
-Welcome to **Day 5 of my DSA Journey**! 🚀
-
-So far:
 
 ``` text
 Day 01 → Introduction to DSA
