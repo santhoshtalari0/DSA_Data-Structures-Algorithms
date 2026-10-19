@@ -260,6 +260,7 @@ You generally do not need to implement a hash table from scratch unless the prob
 7. Ignoring normalization rules: case, whitespace, and punctuation are ignored only if you explicitly normalize them.
 8. Confusing average and worst-case complexity.
 
+
 ## 15. Complexity recap
 
 | Pattern | Average time | Extra space |
