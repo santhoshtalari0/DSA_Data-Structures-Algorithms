@@ -333,12 +333,3 @@ Time: **O(n)**; extra space: **O(1)**. Initializing with the first element corre
 20. Find the longest run of consecutive ones.
 
 ---
-
-# Quick Revision
-
-- Traversal and linear search take **O(n)** time.
-- Two pointers reduce repeated work in suitable problems.
-- Prefix sums speed up repeated range-sum queries.
-- Sliding window is useful for contiguous ranges.
-- Kadane's algorithm finds maximum subarray sum in linear time.
-- Check assumptions: empty input, sorted order, duplicates, and rotation direction.
