@@ -1,9 +1,4 @@
 
-> **How do we actually approach a programming problem?**
-
-Before jumping into Arrays, Strings, Hashing, Recursion, Sorting, and other DSA topics, we need to build strong problem-solving fundamentals.
-
----
 
 # 📌 What Will We Learn Today?
 
