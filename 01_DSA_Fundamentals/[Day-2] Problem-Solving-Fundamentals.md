@@ -1,11 +1,3 @@
-```markdown
-# 🚀 Day 02 - Problem-Solving Fundamentals
-
-Welcome to **Day 2 of my DSA Journey**! 🚀
-
-In Day 1, I learned the basic concepts of Data Structures and Algorithms.
-
-Now it is time to understand something even more important:
 
 > **How do we actually approach a programming problem?**
 
