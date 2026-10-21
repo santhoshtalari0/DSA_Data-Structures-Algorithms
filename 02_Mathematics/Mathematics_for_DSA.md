@@ -1213,5 +1213,3 @@ Equal Pairs Except One
 -   Always look for a mathematical pattern before choosing brute force.
 
 ------------------------------------------------------------------------
-
-# 🚀 
