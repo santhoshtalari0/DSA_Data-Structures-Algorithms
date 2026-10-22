@@ -1,5 +1,3 @@
-# Day 14 — Trees and Binary Trees
-
 ## 1. Learning goals
 - Understand root, parent, child, leaf, depth, and height.
 - Represent a binary tree in Python.
