@@ -1,4 +1,3 @@
-# Day 15 — Binary Search Trees (BST)
 
 ## 1. Learning goals
 - Understand the BST ordering rule.
