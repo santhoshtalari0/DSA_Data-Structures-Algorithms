@@ -263,5 +263,3 @@ A plain BST does not automatically rebalance. AVL and Red-Black trees maintain h
 - What are the three deletion cases?
 - Why does validation need lower and upper bounds?
 - Why can search take O(n) in a skewed BST?
-
-**Day 15 checkpoint:** implement search, insert, minimum, maximum, delete, and BST validation. Test deletion for all three cases before moving on.
