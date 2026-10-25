@@ -256,10 +256,3 @@ A plain BST does not automatically rebalance. AVL and Red-Black trees maintain h
 20. Check whether one tree is a subtree of another.
 21. Design an iterator that yields values in ascending order.
 22. Explain how self-balancing BSTs improve worst-case operations.
-
-## 14. Quick self-check
-- What ordering rule makes a binary tree a BST?
-- Why does inorder traversal return sorted values in a BST?
-- What are the three deletion cases?
-- Why does validation need lower and upper bounds?
-- Why can search take O(n) in a skewed BST?
